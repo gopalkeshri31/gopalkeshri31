@@ -86,19 +86,4 @@
   <img src="https://profile-counter.glitch.me/gopalkeshri31/count.svg?"  />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gopal-keshri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ug_coder_31" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/gopalkeshri31/gopalkeshri31/output/snake.svg" alt="Snake animation" />
-
-###
