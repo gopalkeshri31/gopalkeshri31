@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://www.gopalkeshri.xyz/img/gopal-keshri-pic.jpg"  />
+  <img height="200" src="https://www.keshrigopal.netlify.app/img/gopal-keshri-pic.jpg"  />
 </div>
 
 ###
